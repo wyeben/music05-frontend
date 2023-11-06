@@ -1,0 +1,20 @@
+.flipping-button {
+    perspective: 1000px;
+    text-align: center;
+  }
+  
+  .flip-button {
+    width: 200px;
+    height: 50px;
+    background-color: #007BFF;
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    transform-style: preserve-3d;
+    transition: transform 0.5s;
+  }
+  
+  .flip-button:hover {
+    transform: rotateY(180deg);
+  }
