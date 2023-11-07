@@ -14,9 +14,9 @@ function HomePage() {
         <button>Upload Your Songs</button>
       </Link>
       </h6>
-      <div className="welcome-page">
+      {/* <div className="welcome-page"> */}
       <div className="guitar"></div>
-     </div>
+     {/* </div> */}
     </div>
   );
 }

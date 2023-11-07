@@ -87,7 +87,7 @@ function UploadSongComponent() {
 
   return (
     <div>
-      <div className='container'>
+      <div className='songList-container'>
         <div className='row'>
           <div className='card col-md-6 offset-md-3'>
             {title()}
