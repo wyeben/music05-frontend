@@ -50,8 +50,8 @@
 .main{
   width: 100%;
   background-color: #cdb6c4;
-  background-image: 
-   url("../src/Assets/images/d7a53a450f76f01840facc033bb0627f.png");
+  /* background-image: 
+   url("../src/Assets/images/d7a53a450f76f01840facc033bb0627f.png"); */
   background-size:auto 50%;
   background-repeat: no-repeat, no-repeat;
   background-attachment: fixed, fixed;
