@@ -15,7 +15,7 @@ function HomePage() {
       </Link>
       </h6>
       {/* <div className="welcome-page"> */}
-      <div className="guitar"></div>
+      {/* <div className="guitar"></div> */}
      {/* </div> */}
     </div>
   );

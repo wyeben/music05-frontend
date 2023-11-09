@@ -49,10 +49,17 @@
 }
 .main{
   width: 100%;
-  background-image: url("C:\Users\Wyeben\Downloads\mike-giles-IiwYeihxC58-unsplash.jpg");
-  /* background-color: #333; */
-
-  /* margin: auto; */
+  background-color: #cdb6c4;
+  background-image: 
+   url("C:\Users\Wyeben\Downloads\d7a53a450f76f01840facc033bb0627f.png");
+  background-size:auto 50%;
+  background-repeat: no-repeat, no-repeat;
+  background-attachment: fixed, fixed;
+  background-position: center center, center bottom;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+  overflow: hidden;
 }
 
 .table th{
@@ -95,6 +102,7 @@
 }
 .home-page {
   text-align: center;
+
   
 }
 .app-background {
@@ -109,7 +117,7 @@
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #f0f0f0;
+  background-color: #413f3f;
 }
 
 .guitar {
