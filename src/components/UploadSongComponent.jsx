@@ -105,7 +105,6 @@ function UploadSongComponent() {
                 </div>
                 <div className='form-group'>
                   <label>Song Title</label>
-                  
                   <input
                     placeholder='Song Title'
                     name='songTitle'
